@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ## 🌱 Education
 - Woori FISA - Cloud Engineering Program 5th `2025.07. - `
-- SungKyunKwan University(Information & Communication) - Master of Engineering of Big Date `2022.08 - 2025.02`
+- SungKyunKwan University(Information & Communication) - Master of Engineering in Big Date `2022.08 - 2025.02`
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2021.02`
 
 
 ## 💻 Experience
-  - ROK Air Force - OCS 146th Commissioned Officer(Information & Communication) `2021.06 - 2025.05`
+  - ROK Air Force OCS 146th - Commissioned Officer(Information & Communication) `2021.06 - 2025.05`
 <!--    - Cyber Operations Command  `2021.07 - 2025.05` -->
 
 
