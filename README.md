@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Education
 - Woori FISA - Cloud Engineering Program 5th `2025.07. - `
-- SungKyunKwan University(Information & Communication) - Master of Engineering in Big Date `2022.08 - 2025.02`
+- SungKyunKwan University(Information & Communication) - Master of Engineering in Big Data `2022.08 - 2025.02`
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2021.02`
 
 
