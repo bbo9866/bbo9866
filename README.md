@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- ## About Me -->
 
-
+<br>
 
 ## 🌱 Education
 - Woori FISA - Cloud Engineering Program 5th `2025.07. - `
@@ -28,31 +28,37 @@ Here are some ideas to get you started:
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2021.02`
 
 
+
 ## 💻 Experience
   - ROK Air Force OCS 146th - Commissioned Officer(Information & Communication) `2021.06 - 2025.05`
-<!--    - Cyber Operations Command  `2021.07 - 2025.05` -->
+    * Cyber Operations Command  `2021.07 - 2025.05`
 
 
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+**☁️ Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 
-**Backend & Infra**  
+**🛠️ Infrastructure**  
+![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+**💾 Database & Queue**
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-`Docker`
 
-**Tools**  
-`VSCode` `Colab` `Notion` `DBeaver` `Eclipse`
 
+**💻 Development** 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+
+<br>
 
 ## Contact Me
-   - 📧 Email: bbo9866@naver.com
-   - 📫 velog : https://velog.io/@zwoint/posts
-   - 📫 github : https://github.com/bbo9866/
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@zwonit)](https://velog.io/@zwonit)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbo9866@gmail.com)](mailto:bbo9866@gmail.com)
+
