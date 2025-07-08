@@ -57,8 +57,10 @@ Here are some ideas to get you started:
 <br>
 
 **💻 Development**
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 
 <br>
