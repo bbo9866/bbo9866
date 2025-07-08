@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jiwon Park 👋
 
 <!--
 **bbo9866/bbo9866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `Java` `SQL`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 
 **Backend & Infra**  
 `MySQL` `Docker` `GitHub Actions`
