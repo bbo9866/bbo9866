@@ -1,4 +1,4 @@
-## Hi, I'm Jiwon Park 👋
+<h1 align="center"> Hi, I'm Jiwon Park 👋 </h1>
 
 <!--
 **bbo9866/bbo9866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 - SungKyunKwan University(Information & Communication) - Master of Engineering in Big Data `2022.08 - 2025.02`
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2021.02`
 
+<br>
 
 
 ## 💻 Experience
   - ROK Air Force OCS 146th - Commissioned Officer(Information & Communication) `2021.06 - 2025.05`
     * Cyber Operations Command  `2021.07 - 2025.05`
 
+<br>
 
 
 ## 🛠️ Tech Stack
@@ -40,22 +42,26 @@ Here are some ideas to get you started:
 **☁️ Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
+<br>
 
 **🛠️ Infrastructure**  
 ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+**💾 Database & Queue**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+<br>
+
+**💻 Development**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
-**💾 Database & Queue**
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
-
-**💻 Development** 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
-
+<br>
 <br>
 
 ## Contact Me
