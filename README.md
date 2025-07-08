@@ -33,5 +33,20 @@ Here are some ideas to get you started:
 <!--    - Cyber Operations Command  `2021.07 - 2025.05` -->
 
 
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `Java` `SQL`
+
+**Backend & Infra**  
+`MySQL` `Docker` `GitHub Actions`
+
+**Tools**  
+`VSCode` `Colab` `Notion` `DBeaver` `Eclipse`
+
+
 ## Contact Me
    - 📧 Email: bbo9866@naver.com
+   - 📫 velog : https://velog.io/@zwoint/posts
+   - 📫 github : https://github.com/bbo9866/
